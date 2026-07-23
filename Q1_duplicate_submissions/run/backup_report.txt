@@ -1,0 +1,7 @@
+BACKED_UP	run/unique_backup/alice.txt
+DUPLICATE	submissions/bob.txt	submissions/alice.txt
+BACKED_UP	run/unique_backup/carol.txt
+Files processed: 3
+Duplicates found: 1
+Unique files backed up: 2
+Error log: run/errors.log

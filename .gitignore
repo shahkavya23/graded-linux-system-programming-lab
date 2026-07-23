@@ -1,0 +1,6 @@
+*.o
+*.swp
+*.swo
+core
+Q2_process_monitor/process_monitor
+Q3_file_processing/employee_store

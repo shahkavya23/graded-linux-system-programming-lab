@@ -1,0 +1,2 @@
+Retrieved record 1: id=102 name=Ravi salary=71000.00
+Updated record 1: id=102 name=Ravi salary=75000.00

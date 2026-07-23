@@ -1,0 +1,10 @@
+parent: created child[0] pid=4101
+child[0] pid=4101 started
+parent: created child[1] pid=4102
+child[1] pid=4102 started
+parent: created child[2] pid=4103
+child[2] pid=4103 started
+parent: child[0] reaped exit=10
+parent: child[1] reaped exit=11
+parent: child[2] reaped exit=12
+parent: all children reaped; no zombies remain
